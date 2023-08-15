@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Dwarf Runes";
+        src: url("/fonts/RUNE_D.woff") format("woff");
+    }
+}
