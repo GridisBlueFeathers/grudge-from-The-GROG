@@ -1,22 +1,12 @@
-# create-svelte
+# Grudge from the Great Repository Of Grudges
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Description
 
-## Creating a project
+A web application that gets and shows a random grudge from [`the Great Repository Of Grudges (the GROG)`](https://github.com/Qworel97/The-Great-Repository-Of-Grudges) 
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Run locally
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+To run locally, install dependencies with `npm install` (or `pnpm install` or `yarn`), then start a development server:
 
 ```bash
 npm run dev
@@ -25,14 +15,4 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
